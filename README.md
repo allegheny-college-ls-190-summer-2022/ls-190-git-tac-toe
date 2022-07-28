@@ -2,7 +2,6 @@
 
 **Important**: Follow long with the instruction happening on the Google Meet. If you'd like to play with friends later, copy and paste the table (removing all moves) to play.
 
-
 ## Rules
 
 * In order of turns, `pull` from the `main` branch
