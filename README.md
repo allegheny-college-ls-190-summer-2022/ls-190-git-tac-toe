@@ -23,7 +23,7 @@ git checkout -b USERNAME
 |GIT|TAC|TOE|
 |---|---|---|
 | X |   |   | 
-|   |   |   |
+|   | O |   |
 |   |   |   |
 
 ### Game 2
