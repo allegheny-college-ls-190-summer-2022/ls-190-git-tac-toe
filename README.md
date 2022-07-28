@@ -19,8 +19,8 @@ git checkout -b USERNAME
 
 ## Game board
 
-| | | |
-|-|-|-|
-| | | | 
-| | | |
-| | | |
+|GIT|TAC|TOE|
+|---|---|---|
+|   |   |   | 
+|   |   |   |
+|   |   |   |
