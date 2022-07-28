@@ -30,6 +30,6 @@ git checkout -b USERNAME
 
 |GIT|TAC|TOE|
 |---|---|---|
-|   |   |   | 
+|   | X  |   | 
 |   |   |   |
 |   |   |   |
