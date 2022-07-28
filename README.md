@@ -24,7 +24,7 @@ git checkout -b USERNAME
 |---|---|---|
 | X |   | X | 
 |   | O |   |
-|   |   |   |
+|  O |   |   |
 
 ### Game 2
 
