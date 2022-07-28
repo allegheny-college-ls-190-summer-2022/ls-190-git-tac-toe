@@ -22,7 +22,7 @@ git checkout -b USERNAME
 
 |GIT|TAC|TOE|
 |---|---|---|
-| X |   | X | 
+| X | X  | X | 
 |   | O |   |
 |  O |   |   |
 
